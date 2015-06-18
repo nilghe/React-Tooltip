@@ -5,7 +5,6 @@ A simple tooltip component for React
 
 1. Include the tooltip component `tooltip.react.js` inside your parent react component.
 
-javascript
 ```
 var ToolTip   = require('../../../utils/tooltip.react');
 
